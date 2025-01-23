@@ -3,7 +3,7 @@
 
 // titulo.innerHTML = 'Jogo do Número Secreto';
 // paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 let listaNumeroSorteado = [];
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativa = 1;
